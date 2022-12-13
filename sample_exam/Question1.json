@@ -1,0 +1,22 @@
+{
+    "email": "hpurselowev@oaic.gov.au",
+    "phone": "239-462-4672",
+    "sales": [
+        {
+            "product_id": 8,
+            "product_name": "Bat Limited Edition",
+            "sales_amount": 559.992,
+            "sales_transaction_date": "2019-03-29T10:13:23"
+        },
+        {
+            "product_id": 7,
+            "product_name": "Bat",
+            "sales_amount": 599.99,
+            "sales_transaction_date": "2019-02-18T15:17:44"
+        }
+    ],
+    "last_name": "Purselowe",
+    "date_added": "2019-02-07T00:00:00",
+    "first_name": "Hamnet",
+    "customer_id": 32
+}
